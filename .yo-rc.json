@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Herramientas para devs",
+    "packageVersion": "0.0.0",
+    "revealTheme": "blood",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "VictorVelarde",
+    "githubRepository": "presentacion-devtools"
+  }
+}
