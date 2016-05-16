@@ -1,7 +1,7 @@
 [
     "index.md"
     
-    , "nodejs.md"
+    , ["node.md", "node-install_simple.md", "node-install_flexible.md"]
     
     , ["yeoman.md"]
     
