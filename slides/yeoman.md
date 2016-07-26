@@ -3,7 +3,7 @@
 
 <hr/>
 
-```npm install -g yeoman```
+```npm i -g yeoman```
 
 * Sistema de plugins: **generator**
 * Plantilla + herramientas (*grunt*, *bower*...)
