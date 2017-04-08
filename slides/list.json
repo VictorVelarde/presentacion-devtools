@@ -1,9 +1,7 @@
 [
     "index.md"
-    
-    , ["node.md", "node-install_simple.md", "node-install_flexible.md"]
-    
+    , ["node.md", "node-install_simple.md", "node-install_flexible.md",
+        "node-npm.md"]
     , ["yeoman.md"]
-    
     , ["reveal.md", "reveal-yeoman.md", "reveal-githubpages.md"]
 ]
