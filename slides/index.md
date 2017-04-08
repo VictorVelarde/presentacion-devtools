@@ -1,7 +1,5 @@
-## Herramientas para desarrollo web
+## RevealJS
 <hr/>
-... o cómo **JavaScript** se adueñó de tu vida
-
+... una herramienta de ppts para programadores
 
 *@VictorVelarde*
-
